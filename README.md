@@ -1,5 +1,7 @@
 # OmniMorph: 📐 Omni Modality Embeddings Framework
 
+[OmniMorph by Agora](omnimorph.png)
+
 Discover the future of data transformation with OmniMorph, a cutting-edge, omni-modality embedding function designed to seamlessly handle and adapt to diverse data inputs. OmniMorph intelligently detects and optimizes embeddings for various modalities, revolutionizing data processing while saving valuable time and resources. Its unparalleled adaptability empowers users to efficiently work with multi-modal data, unlocking new possibilities for AI research and development. Experience the power of geometric transformation with OmniMorph.
 
 ## 🔹 Features
